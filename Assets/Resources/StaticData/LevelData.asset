@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da558162a72b4863b883e06f30791e65, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  _enemySpawnPoints:
+  - {fileID: -6897118498468247662, guid: e648c986fd9a52144ae1ab088fc4f483, type: 3}
+  - {fileID: -8197396908373264798, guid: e9267d360c2de1249a0d7d9af997e9ef, type: 3}
+  - {fileID: -6163958107221507454, guid: 73d4f4718e867cf43b19fcaed89ab6a9, type: 3}
+  _bonusSpawnPoints:
+  - {fileID: 2502855326276083968, guid: 6111cbb5a07678e4a8532e6f7f0b1477, type: 3}
+  - {fileID: -403609001012756320, guid: 1d6175d91ebfcc64bb61dcb69c50646d, type: 3}
+  - {fileID: -2041355713704730986, guid: 7201c24b43d39bf43ba20e235c13e10f, type: 3}
+  - {fileID: -3195173582349352455, guid: c15365728eb73ad4298f861fd6e4abd0, type: 3}
+  - {fileID: -4976640099413950338, guid: 4ac519de12ea26742ba88caca36767c2, type: 3}
